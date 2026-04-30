@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="caculate_tax">Caculate Tax</string>
+    <string name="tax_amaount_0_00">"Tax Amaount : %s "</string>
+</resources>
