@@ -57,9 +57,8 @@ fun EditTextNumber (
     TextField(
         value = value,
         onValueChange = onValueChange,
-        modifier = Modifier,
-        label = {Text("bill amount")},
-        modifier = modifier
+        modifier = modifier,
+        label = { Text("bill amount") }
     )
 }
 @Composable
